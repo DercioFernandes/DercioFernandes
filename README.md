@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently learning Deep Learning.<br>I'm currently learning XR Development.<br>I'm currently learning UX/UI.<br>Fun Fact: I know how to speak a little bit of japanese.
+I am a fan of VR, Game Development and Machine Learning.
+Check my Portfolio:
+https://derciofernandes.vercel.app/
 
 
 ## 🌐 Socials:
